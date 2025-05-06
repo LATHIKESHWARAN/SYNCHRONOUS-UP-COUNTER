@@ -1,4 +1,4 @@
-# SYNCHRONOUS-UP-COUNTER
+# Exp:11 - SYNCHRONOUS-UP-COUNTER
 
 ### Developed by: Lathikeshwaran J
 
